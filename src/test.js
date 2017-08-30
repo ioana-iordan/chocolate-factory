@@ -1,7 +1,6 @@
-var ciocolate;
-let marmota = new Marmota();
+var marmota = new Marmota();
 { manca(); let iarba_verde = 10; }
-ciocolate = getCiocolate();
+var ciocolate = getCiocolate();
 
 function traba() {
   for (var ciocolata in ciocolate) {
