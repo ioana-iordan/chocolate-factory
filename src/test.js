@@ -7,5 +7,5 @@ function traba() {
     marmota.inveleste(ciocolata, "staniol")
   }
   fericita(marmota);
-  console.log(4);
+  console.log(2);
 }
