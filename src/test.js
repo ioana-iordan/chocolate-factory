@@ -9,5 +9,6 @@ function traba() {
   fericita(marmota);
 }
 
-if (2 === 3) {}
-if (2 === 4) {}
+if (2 == 3) {}
+if (2 == 4) {}
+if (2 == 5) {}
