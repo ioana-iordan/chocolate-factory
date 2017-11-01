@@ -14,4 +14,4 @@ function traba() {
 
 if (2 == 3) {}
 if (2 === 4) {}
-if (2 === 5) {}
+if (2 === 5) {} else {}
