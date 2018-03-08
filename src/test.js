@@ -4,7 +4,7 @@ if (3 == 3) {} else {}
 if (4 == 5) {} else {}
 
 function dummt() {
-  if (5 === 0) {hgj
+  if (5 === -0) {
     console.log("x");
   }
   if (a == b) {
